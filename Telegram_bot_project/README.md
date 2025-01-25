@@ -53,7 +53,7 @@
    - Укажите уникальное имя пользователя для бота, которое должно заканчиваться на **bot**.
 5. После успешного создания **BotFather** отправит вам токен.
 6. Сохраните токен в файл `.env`:
-   - `BOT_TOKEN=7435739347:AAGYrh-QD1o1m44GGddlTRC_OLJiQi_KI2s`
+   - `BOT_TOKEN=***`
 
 
 ### 3.2. Получение ключа API OMDB
@@ -75,7 +75,7 @@ If you did not make this request, please disregard this email.
 
 
 3. Скопируйте ваш ключ API и сохраните его в файл `.env` вашего проекта:
-   - `OMDB_API_KEY=8e8e0fa6`
+   - `OMDB_API_KEY=***`
 
 
 ## 4. Запуск проекта
