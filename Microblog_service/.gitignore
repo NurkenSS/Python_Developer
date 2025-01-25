@@ -1,0 +1,5 @@
+admin/
+js/
+venv/
+__pycache__/
+migrations/
